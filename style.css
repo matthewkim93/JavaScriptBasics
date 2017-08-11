@@ -1,0 +1,45 @@
+#background{
+  background-color:rgb(21, 45, 114);
+  width:970px;
+  padding:30px
+}
+#headliner{
+  background-color:rgb(168, 25, 25);
+  width:960px;
+  border-radius:10px;
+}
+#headliner h1{
+  color: silver;
+  padding:15px;
+}
+#nav{
+  background-color:rgb(32, 112, 108);
+  width:200px;
+  height:300px;
+  border-radius:10px;
+  display:inline-block;
+  font-size: 14px;
+  vertical-align:top;
+  color:rgb(41, 210, 219);
+}
+#body{
+  background-color:rgb(10, 12, 45);
+  color:white;
+  width: 730px;
+  display:inline-block;
+  margin-left: 15px;
+  border-radius:10px;
+  padding:10px
+}
+span{
+  color:rgb(106, 76, 206);
+}
+#moreinfo{
+  background-color:rgb(114, 114, 114);
+  border-radius:10px;
+  margin-top:15px;
+  padding:10px;
+}
+a{
+  color:rgb(41, 210, 219);
+}
